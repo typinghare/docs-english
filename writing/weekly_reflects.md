@@ -1,0 +1,20 @@
+# Weekly Reflects
+
+## #1 Is my English Good?
+
+I hate troubling others due to my introversion, and that's why when I get stuck in speaking, I often say "Sorry I'm not good at English, so ..." to reduce embarrassment. However, many people comfort me by praising me given that I am only an immigrant. I am not eager for the praises, instead, my purpose of saying that is to apologize for the fact that I have not yet mastered the language that I should have mastered. But since I've noticed that many people praise me seriously, not out of politeness, there must be some kind of misunderstanding. Recently, I have figured it out.
+
+Native Americans have two primary sources of education: formal educators within the school system who impart specialized knowledge, and parents who provide valuable insights into life and general knowledge. These dual sources of guidance and learning are essential, as they complement one another, aiding in the development of a well-rounded understanding of the English language for Native American children. However, children residing in families where English is not spoken are limited to acquiring English knowledge solely through schools. The absence of parental guidance in this regard results in several disadvantages for these non-native learners.
+
+First starters, non-native learners often exhibit diverse accents. If an individual can speak their native language in a standardized manner, they possess the potential to achieve a similar standard in speaking any language. The persistence of accents stems from the lack of timely correction and guidance. During a child's teething phase, the parents begin to rectify their pronunciation patiently by repeating a word time after time. Unfortunately, many non-native learners do not have this valuable opportunity to refine their pronunciation, especially when their teachers also possess strong accents. Moreover, numerous learners attempt to pronounce other languages using the patterns of their native language. Nonetheless, they encounter difficulties when faced with pronunciations that don't exist in their mother tongue. Acquiring new pronunciations can be challenging, often requiring significant effort to build the necessary muscle memory. I vividly remember my initial attempts at mastering the American pronunciation of the word "problem". During my 20-minute commute from home to school, I incessantly repeated the word and practiced using it in various example sentences. I finally made it, and then I could pronounce the word "problem" in both British and American accents at will. This experience built up my confidence on speaking and made me believe that any pronunciation can be conquered by enough repetitions.
+
+Secondly, non-native learners tend to prioritize vocabulary over practice, viewing vocabulary as a measure of their language proficiency. However, a common misconception among learners is that mastering a word only involves linking it to equivalent words in their native language. This misunderstanding often leads to challenges when attempting to use the words in constructing complete and coherent sentences. Due to their struggle in forming sentences fluently like native speakers, they often feel hesitant to engage in conversation, leading to a self-imposed silence. On the other hand, native speakers learn through consistent practice. During early childhood, they learn by imitating what they hear. As they mature, they confidently construct more intricate sentences and express themselves without fear of criticism or judgment. After all, no one anticipates a child to be flawless. In essence, every native speaker experiences a valuable phase in which they can express themselves freely without constraints—an invaluable practice that significantly contributes to the development of language skills.
+
+Thirdly, 
+
+# Others
+
+* reticent 沉默寡言的
+* in this regard 在这方面的
+* at will 随心所欲地
+* contribute to 有助于
