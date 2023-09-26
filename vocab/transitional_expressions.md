@@ -4,41 +4,27 @@
 
 **Also**; **Too**; **In additional (to sth.)**; **Additionally**; **Moreover**; **Further**; **Furthermore**; **Likewise**; **Not only..., but also**; **Equally important**; **Besides**; **On top of that**; **What's more**; **In the sam way**; **Similarly**
 
-He is a talented pianist and **also** a skilled painter.
-
-**In addition to** your responsibilities as project manager, you'll also be in charge of coordinating the marketing campaign.
-
-I don’t know what happened at the party last night and, **furthermore**, I don’t want to know.
-
-She **not only** excelled in academics **but also** actively participated in extracurricular activities.
-
-Just as the morning sunrise brings a sense of renewal, **likewise**, the changing seasons can have a similar effect on our perspective.
-
-**Besides** completing her assignments on time, she actively contributes to class discussions.
-
-The new policy has increased productivity among the team members. **Additionally**, it's worth noting that employee satisfaction has also seen a noticeable uptick.
+* He is a talented pianist and **also** a skilled painter.
+* **In addition to** your responsibilities as project manager, you'll also be in charge of coordinating the marketing campaign.
+* I don’t know what happened at the party last night and, **furthermore**, I don’t want to know.
+* She **not only** excelled in academics **but also** actively participated in extracurricular activities.
+* Just as the morning sunrise brings a sense of renewal, **likewise**, the changing seasons can have a similar effect on our perspective.
+* **Besides** completing her assignments on time, she actively contributes to class discussions.
+* The new policy has increased productivity among the team members. **Additionally**, it's worth nothing that employee satisfaction has also seen a noticeable uptick.
 
 ## Contrast Transitions
 
 **But**; **However**; **Nonetheless**; **Nevertheless**; **While**; **Yet**; **Although**; **(Even) though**; **On the other hand**; **In contrast**; **On the contrary**; **Conversely**; **In spite of**; **Despite**; **Even so**; **Unlike**; **Rather**; 
 
-**While** she excelled in mathematics, her younger brother had a passion for literature.
-
-The movie received mixed reviews from critics, **yet** it managed to become a box office hit.
-
-**Although** she had practiced extensively, she still felt nervous before her piano recital.
-
-The city is bustling with activity. **On the other hand**, the rural countryside offers a tranquil and peaceful environment.
-
-The fast-paced city life is exciting and dynamic. **In contrast**, the suburbs offer a quieter and more laid-back atmosphere.
-
-The experiment didn't yield the expected results; **nevertheless**, it provided valuable insights for future research.
-
-While some people thrive in team environments, others work better independently; **conversely**, not all individuals fit into one of these categories.
-
-**In spite of** his lack of experience, he managed to complete the task successfully.
-
-**Unlike** her older sister, who enjoyed sports, she had a preference for artistic pursuits.
+* **While** she excelled in mathematics, her younger brother had a passion for literature.
+* The movie received mixed reviews from critics, **yet** it managed to become a box office hit.
+* **Although** she had practiced extensively, she still felt nervous before her piano recital.
+* The city is bustling with activity. **On the other hand**, the rural countryside offers a tranquil and peaceful environment.
+* The fast-paced city life is exciting and dynamic. **In contrast**, the suburbs offer a quieter and more laid-back atmosphere.
+* The experiment didn't yield the expected results; **nevertheless**, it provided valuable insights for future research.
+* While some people thrive in team environments, others work better independently; **conversely**, not all individuals fit into one of these categories.
+* **In spite of** his lack of experience, he managed to complete the task successfully.
+* **Unlike** her older sister, who enjoyed sports, she had a preference for artistic pursuits.
 
 ## Comparison Transitions
 
