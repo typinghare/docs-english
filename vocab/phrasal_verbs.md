@@ -363,3 +363,35 @@
   * Driving to Alaska sure gave this old truck a **workout**.
 
 ## Unit 12
+
+* **back off** 退后
+  * Tom **backed off** when he saw Jake had a gun.
+* **come across** 穿过（空间）；遇到（人或物）；传达（态度或感情）
+  * As soon as Sofia saw me, she **came across** the room and gave me a big hug.
+  * On the trail, we **came across** some hikers from Australia.
+  * His American humor didn't **come across** well in Britain.
+* **come up** 上来；晋升（走上人生巅峰）；（未预料到的事情）发生
+  * My cousin from San Antonio **came up** to Detroit last week.
+  * I saw Dan driving a Mercedes. He's really **coming up** in the world.
+  * The major didn't go to the military academy. He **came up** through the ranks.
+  * I'm sorry I can't go to your party. Something important has **come up**.
+  * The TV announcer told the audience what was **coming up** after the commercial.
+* **fall through** 从...中掉下来；（因为有人乱搞，计划）泡汤了
+  * The roofer had **fallen through** a hole in the roof.
+  * The family reunion **fell through** after Dad got sick.
+* **put ... up** 放在高处；挂（墙上）；盖楼、装书架、篱笆等；支起（帐篷）；投入（钱）；战斗、抵抗；收留
+  * **Put these knives up** where the baby can't reach them.
+  * The teacher had **put some posters up** in her new classroom.
+  * We need to **put up** a fence to keep the rabbits out of our garden.
+  * The Native Americans stopped by the river and **put up** their teepees.
+  * Mr. Talor said he would **put $3 million up** toward the cost of a new cancer treatment facility.
+  * The enemy soldiers **put up** little resistance when the army attacked them.
+  * Sam didn't have anywhere else to go after the fire, so I said I would **put him up** for a couple of nights.
+* **screw ... on** 关好（容器）；
+  * I hadn't **screwed the top of the gasoline can on** tight enough, and all the gasoline leaked out.
+  * Make sure you **screw each of the nuts on** tightly.
+* **sign ... in** 签到
+  * I'm going to be late. Could you **sign me in**?
+* **sign ... out** 打卡下班；（借书等物品时）签名
+  * Jim isn't here. He **signed out** at 5:06.
+  * The professor **signed the book out** of the rare book room.
